@@ -1,3 +1,3 @@
-from python
+from httpd
 label name anil
-copy . /
+copy . /usr/local/apache2/htdocs/
